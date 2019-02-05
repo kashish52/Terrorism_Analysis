@@ -1,4 +1,4 @@
-# Terrorism_Analysis
+# Terrorism Analysis In India
 In this repository I give exploratory data analysis of Terrorism in India till 2018.
 
 This Project includes the exploration of the state of terrorism in India from 1965 to 2018. The Analysis is done on the various parameters. And some comclusions and results are proposed in the notebook.
